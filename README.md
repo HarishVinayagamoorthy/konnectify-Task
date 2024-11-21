@@ -27,4 +27,4 @@ const target = 92;
 console.log(minCoinsWeNeed(input, target));
 
 
-Note: Task 2 can be found in the "task" branch.
+Note: Task 2 can be found in the "Task 2" branch.
